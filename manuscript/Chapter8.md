@@ -1,7 +1,7 @@
 ## <!-- Capítulo 8 -->
 Chapter 8
 
-<!-- SINDICATOS -->
+<!-- SINDICATOS --> 
 UNIONS
 
 <!-- En el tercer relevamiento incorporamos como variable de análisis la relación entre las ERT y los sindicatos, generando por primera vez información sobre la cuestión más allá de estudios de caso que no daban cuenta de la totalidad. Como para el resto de este informe, lo que podemos apreciar acá no reemplaza los datos de 2010 sino que los complementa y actualiza en relación a las ERT surgidas en el período analizado. -->
